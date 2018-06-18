@@ -1,0 +1,6 @@
+{
+  "workspaces": ["engine/packages/*", "game"],
+  "version": "0.1.0",
+  "name": "potato-engine-kye-develop",
+  "private": true
+}
